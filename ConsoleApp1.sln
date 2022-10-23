@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz 7", "ConsoleApp1\Quiz 7.csproj", "{AF211D8E-08F4-4F42-A207-4288F34723F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A462F59-2956-4EF3-8CFE-7C4053B10222}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{3116F6DD-3FAE-490F-A190-FF4F46AA835C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF211D8E-08F4-4F42-A207-4288F34723F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF211D8E-08F4-4F42-A207-4288F34723F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF211D8E-08F4-4F42-A207-4288F34723F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF211D8E-08F4-4F42-A207-4288F34723F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3116F6DD-3FAE-490F-A190-FF4F46AA835C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3116F6DD-3FAE-490F-A190-FF4F46AA835C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3116F6DD-3FAE-490F-A190-FF4F46AA835C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3116F6DD-3FAE-490F-A190-FF4F46AA835C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4D98518-335F-4AD3-96C0-C5FC32322751}
+	EndGlobalSection
+EndGlobal
